@@ -526,6 +526,8 @@ MIT
 
 @angular/material/core
 
+@angular/material/card
+
 @angular/material/form-field
 
 @angular/material/autocomplete
