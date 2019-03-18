@@ -471,6 +471,9 @@ MIT
 angular-bootstrap-md
 MIT
 
+@angular/animations
+MIT
+
 @angular/cdk
 MIT
 The MIT License
@@ -521,8 +524,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/animations
-MIT
+@angular/material/tooltip
 
 @angular/material/core
 
